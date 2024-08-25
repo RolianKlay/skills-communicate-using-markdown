@@ -1,3 +1,6 @@
-# My heart is in the work.
-## My heart is in the work.
-### My heart is in the work.
+# Sound Euphonium - Season 3
+
+![Poster of Sound Euponium 3](https://github.com/RolianKlay/skills-communicate-using-markdown/blob/main/SE3.jpg)
+
+
+
