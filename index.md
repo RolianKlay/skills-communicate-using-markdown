@@ -6,4 +6,6 @@
 print("I love watching Sound Euphonium Series.")
 ```
 
-
+- [x] Kumiko Saiko!
+- [ ] Kumiko Sugoi!
+- [ ] Kumiko Suki!
